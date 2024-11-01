@@ -128,9 +128,9 @@
 /* BACKGROUND COLOR, PAGE MARGINS & COPYRIGHT */
 
 body {
-  background-color: rgb(228, 237, 240); /* Change to your desired color */
-  margin: 40; /* Removes default margin for the body */
-  padding: 10; /* Removes default padding for the body */
+  background-color: rgb(228, 237, 240);
+  margin: 40;
+  padding: 10;
 }
 
 #copy {
