@@ -1,3 +1,3 @@
 # Grocery-List 
 
-and update to the readme
+This is an exessively fancy grocery list made by curtmas
